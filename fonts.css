@@ -1,27 +1,27 @@
  @font-face {
     font-family: Digitext;
-    src: url("/Digimon.TTF");
+    src: url("Digimon.TTF");
     font-weight: normal;
     font-style: normal;
   }
 
 @font-face {
     font-family: Digitext2;
-    src: url(".Digimon.TTF") format('truetype');
+    src: url("Digimon.TTF") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
  @font-face {
     font-family: Digicodelight;
-    src: url("/Digicode%20Light.otf");
+    src: url("Digicode%20Light.otf");
     font-weight: normal;
     font-style: normal;
   }
 
  @font-face {
     font-family: Digicodebold;
-    src: url("/Digicode%20Bold.ttf");
+    src: url("Digicode%20Bold.ttf");
     font-weight: normal;
     font-style: normal;
   }
