@@ -1,4 +1,17 @@
  @font-face {
+    font-family: RPGAwesome;
+    src: url("/rpgawesome-webfont.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: FontAwesome;
+    src: url("/fontawesome-webfont.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+ @font-face {
     font-family: Digitext;
     src: url("Digimon.TTF");
     font-weight: normal;
